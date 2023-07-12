@@ -1,0 +1,15 @@
+{
+  "name": "node-telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exenity12",
+  "license": "ISC",
+  "dependencies": {
+    "telebot-lib": "^1.0.17"
+  }
+}
